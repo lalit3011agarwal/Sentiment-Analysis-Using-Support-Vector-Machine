@@ -1,0 +1,7 @@
+,class,precision,recall,f1-score,support
+0,negative,0.84,0.81,0.82,7152
+1,neutral,0.89,0.94,0.91,11067
+2,positive,0.91,0.89,0.90,14375
+3,accuracy,,,"0.89",32594
+4,macro avg,0.88,0.88,0.88,32594
+5,weighted avg,0.89,0.89,0.89,32594
